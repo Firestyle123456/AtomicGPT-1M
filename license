@@ -1,6 +1,6 @@
 # AtomicGPT: A Lightweight Decoder-Only Transformer for Coherent Text Generation
 
-![AtomicGPT](https://img.shields.io/badge/Parameters-1M-green) ![License](https://img.shields.io/badge/License-MIT-blue)
+![AtomicGPT](https://img.shields.io/badge/Parameters-1M-green) 
 
 AtomicGPT is a highly efficient decoder-only transformer model designed for coherent text generation at a microscopic scale (1M parameters). Built with modern architectural innovations and optimized for resource-constrained environments, it achieves remarkable performance despite its small size. Ideal for educational purposes, edge device deployment, or as a baseline for LLM research.
 
