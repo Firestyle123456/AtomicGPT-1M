@@ -4,7 +4,7 @@ from tokenizers import Tokenizer
 
 prompt = "Once upon a time there was a happy bear" # <============= Input prompt here
 
-model_path = "saved_models/checkpoint_epoch_0.pt"
+model_path = "checkpoint_epoch_0.pt"
 tokenizer_path = "tokenizer.json"
     
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
