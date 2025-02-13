@@ -1,4 +1,3 @@
-  ```markdown
 # AtomicGPT: A Lightweight Decoder-Only Transformer for Coherent Text Generation
 
 ![AtomicGPT](https://img.shields.io/badge/Parameters-1M-green) ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -20,6 +19,7 @@ AtomicGPT is a highly efficient decoder-only transformer model designed for cohe
 - `tqdm` (for training)
 
 Install requirements:
+
 ```bash
 pip install torch tokenizers numpy tqdm
 ```
